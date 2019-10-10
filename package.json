@@ -1,0 +1,20 @@
+{
+  "name": "@goldix.org/tracer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/tracer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jaeger",
+    "wrapper",
+    "opentracing"
+  ],
+  "author": "Eugene Demchenko <demchenkoev@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "debug": "^4.1.1",
+    "jaeger-client": "^3.17.0"
+  }
+}
