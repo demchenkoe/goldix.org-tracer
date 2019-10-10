@@ -11,6 +11,10 @@
     "wrapper",
     "opentracing"
   ],
+  "repository": {
+    "type" : "git",
+    "url" : "git@github.com:demchenkoe/goldix.org-tracer.git"
+  },
   "author": "Eugene Demchenko <demchenkoev@gmail.com>",
   "license": "ISC",
   "dependencies": {
